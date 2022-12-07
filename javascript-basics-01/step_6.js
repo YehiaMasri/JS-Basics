@@ -6,3 +6,4 @@ let x=a/b;
 let y=a%b;
 alert("the divide of this two num: "+x+" and the remider is : "+y)
 }
+document.getElementById("validate").onclick=function() {remider_divider()};
