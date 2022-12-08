@@ -6,4 +6,5 @@ for (let i=0 ; i<=image.length; i++ ){
   image[i].addEventListener("mouseout",function(){
     document.getElementById("image"+(i+1)).src="images/image"+(i+1)+".jpg"
   })
+  
 }
