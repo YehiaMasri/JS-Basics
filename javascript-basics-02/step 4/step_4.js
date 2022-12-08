@@ -7,4 +7,4 @@ function reset() {
        document.getElementById("city").value = "";      
   }
 } 
-document.querySelector("button").onclick=function(){reset()}
+ document.querySelector("button").onclick=function(){reset()}
